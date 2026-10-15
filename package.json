@@ -1,0 +1,15 @@
+{
+  "name": "flowcore-consulta-cep",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Preenche o endereço pelo CEP na BrasilAPI v2 com fallback ViaCEP, retorno normalizado e cache. Checkout e cadastro mais rápidos, com menos erro de entrega.",
+  "author": "FlowCore Soluções LTDA",
+  "license": "MIT",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "vitest": "^3.2.4"
+  }
+}
